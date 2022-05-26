@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 this is first floder
-this is second line
- 
+this is second file
+this is first fioder
+this line from vijay
+
